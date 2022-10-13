@@ -14,6 +14,6 @@
 
 [esto es un link](http://google.com)
 
-![lindo perrito](https://pbs.twimg.com/media/FejzkwUXkAA8SBe?format=jpg&name=900x900)
+![lindo perrito](https://media.canalnet.tv/2018/09/Screenshot_122-974x550.jpg)
 
 hola noe
