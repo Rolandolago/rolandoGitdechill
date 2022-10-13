@@ -5,3 +5,4 @@ zone "asircastelao.com." {
         any;
        };
        };
+       .

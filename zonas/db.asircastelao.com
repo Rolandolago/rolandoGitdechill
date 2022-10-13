@@ -10,3 +10,4 @@ $TTL    3600
 ns      IN      A       10.1.0.254
 test    IN      A       10.1.0.2
 alias   IN      CNAME   test  
+alias   IN      TXT     mensaje
