@@ -5,4 +5,7 @@ zone "asircastelao.com." {
         any;
        };
        };
-       .
+       zone "Rolando_dns.com." {
+        type secundary;
+        file "/var/lib/bind/db.asircastelao.com";
+};

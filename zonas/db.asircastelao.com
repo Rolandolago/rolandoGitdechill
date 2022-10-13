@@ -7,6 +7,7 @@ $TTL    3600
                         38400 )         ; Negative Cache TTL [10h40m]
 ;
 @       IN      NS      ns.asircastelao.com.
+@       IN      NS      ns.Rolando_dns.com.
 ns      IN      A       10.1.0.254
 test    IN      A       10.1.0.2
 alias   IN      CNAME   test  
